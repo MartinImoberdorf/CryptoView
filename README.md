@@ -1,6 +1,9 @@
 # CryptoView
 CryptoView
 
+🟧 This program is a graphical interface that shows the price of the main cryptocurrencies.
+
+
 MIT License
 
 Copyright (c) 2021 Martín José Imoberdorf
