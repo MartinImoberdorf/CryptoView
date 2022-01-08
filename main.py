@@ -98,7 +98,7 @@ def main():
     root.configure(background="white")
     root.title("Crypto View")
     root.iconbitmap('Iconos/Logo.ico')
-    #root.resizable(width=False,height=False)
+    root.resizable(width=False,height=False)
 
     logo=PhotoImage(file="LogosMain/Logo.png")
 
