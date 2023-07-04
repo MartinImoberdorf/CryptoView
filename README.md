@@ -1,8 +1,13 @@
 # CryptoView
 CryptoView
 
-🟧 This program is a graphical interface that shows the price of the main cryptocurrencies.
+CryptoView is a Python and Tkinter application that allows you to display the price of select cryptocurrencies.
 
+With CryptoView, you can obtain real-time information about the price of the chosen cryptocurrencies and display it in a user-friendly graphical interface. The application utilizes Python's web request handling library (such as requests) to access cryptocurrency exchange APIs and retrieve price data.
+
+In general, CryptoView is a Python application utilizing the Tkinter library, enabling you to display the prices of select cryptocurrencies in a user-friendly graphical interface. It serves as a helpful tool to stay informed about price changes in the cryptocurrency market and make informed decisions.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 MIT License
 
